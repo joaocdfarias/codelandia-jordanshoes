@@ -1,0 +1,32 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px 16px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.products-text {
+  color: #181818;
+  text-align: center;
+  padding: 56px;
+}
+
+.products-text h1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 64px;
+}
+
+.products-text p {
+  font-size: 18px;
+  line-height: 32px;
+}
+
+@media (max-width: 460px) {
+  .products {
+    grid-template-columns: repeat(1, 1fr);
+    padding: 0 16px;
+    margin: 0 auto;
+  }
+}

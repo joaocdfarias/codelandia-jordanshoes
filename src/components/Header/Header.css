@@ -1,0 +1,18 @@
+header {
+  text-align: center;
+}
+
+header .discount {
+  background-color: #181818;
+  padding: 16px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+header .brand {
+  background-color: #ffffff;
+  padding: 16px;
+  color: #181818;
+  font-size: 24px;
+  font-weight: 600;
+}

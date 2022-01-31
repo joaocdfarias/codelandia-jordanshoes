@@ -1,0 +1,43 @@
+.hero {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 380px;
+}
+
+.text {
+  padding: 128px 0;
+  color: #ffffff;
+  max-width: 460px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 100%;
+}
+
+.text h1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.text p {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+@media (max-width: 460px) {
+  .text {
+    padding: 128px 16px;
+  }
+
+  .text h1 {
+    font-size: 24px;
+  }
+
+  .text p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

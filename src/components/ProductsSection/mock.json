@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "src": "/src/assets/jordan-1.png"
+    },
+    {
+      "src": "/src/assets/jordan-2.png"
+    },
+    {
+      "src": "/src/assets/jordan-3.png"
+    },
+    {
+      "src": "/src/assets/jordan-4.png"
+    },
+    {
+      "src": "/src/assets/jordan-5.png"
+    },
+    {
+      "src": "/src/assets/jordan-6.png"
+    },
+    {
+      "src": "/src/assets/jordan-7.png"
+    },
+    {
+      "src": "/src/assets/jordan-8.png"
+    }
+  ]
+}
