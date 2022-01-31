@@ -1,6 +1,6 @@
 # Codelândia JordanShoes
 
-### Desafio 1# do [Iuri Code](https://iuricode.vercel.app/).
+### Desafio 2# do [Iuri Code](https://iuricode.vercel.app/).
 
 Nesse desafio é necessário criar uma "vitrine" com tênis Jordan.
 
