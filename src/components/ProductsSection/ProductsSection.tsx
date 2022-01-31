@@ -14,7 +14,7 @@ export const ProductsSection = () => {
       </div>
       <div className="products">
         {data.products.map((item) => {
-          return <Product imgSrc={item.src} />
+          return <Product imgSrc={item.src} alt={item.alt} />
         })}
       </div>
     </section>
