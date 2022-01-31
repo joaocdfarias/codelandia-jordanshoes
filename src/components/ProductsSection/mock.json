@@ -2,35 +2,35 @@
   "products": [
     {
       "alt": "Tênis 1",
-      "src": "/public/assets/jordan-1.png"
+      "src": "/assets/jordan-1.png"
     },
     {
       "alt": "Tênis 2",
-      "src": "/public/assets/jordan-2.png"
+      "src": "/assets/jordan-2.png"
     },
     {
       "alt": "Tênis 3",
-      "src": "/public/assets/jordan-3.png"
+      "src": "/assets/jordan-3.png"
     },
     {
       "alt": "Tênis 4",
-      "src": "/public/assets/jordan-4.png"
+      "src": "/assets/jordan-4.png"
     },
     {
       "alt": "Tênis 5",
-      "src": "/public/assets/jordan-5.png"
+      "src": "/assets/jordan-5.png"
     },
     {
       "alt": "Tênis 6",
-      "src": "/public/assets/jordan-6.png"
+      "src": "/assets/jordan-6.png"
     },
     {
       "alt": "Tênis 7",
-      "src": "/public/assets/jordan-7.png"
+      "src": "/assets/jordan-7.png"
     },
     {
       "alt": "Tênis 8",
-      "src": "/public/assets/jordan-8.png"
+      "src": "/assets/jordan-8.png"
     }
   ]
 }
