@@ -1,7 +1,7 @@
 import React from 'react'
 
-import HeroImg from '../../assets/hero-img.png'
-import HeroImgMobile from '../../assets/hero-img-mobile.png'
+import HeroImg from '../../../public/assets/hero-img.png'
+import HeroImgMobile from '../../../public/assets/hero-img-mobile.png'
 
 import './Hero.css'
 
